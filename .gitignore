@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*.sdf
 /*.vsp
 /*.psess
@@ -10,6 +11,8 @@
 /MyVoiceRecognition/*.vcxproj.filters
 /MyVoiceRecognition/commands - ¸±±¾.csv
 
+=======
+>>>>>>> 4c5a16a9661d28ba9fd2a436ffe90595ed2017fb
 # Compiled Object files
 *.slo
 *.lo
