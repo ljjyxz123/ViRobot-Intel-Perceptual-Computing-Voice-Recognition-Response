@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-ViRobot-Intel-Perceptual-Computing-Voice-Recognition
-====================================================
+ViRobot-Intel Perceptual Computing-Voice Recognition + Response
+================================================================
 
 Usage:
 -------
@@ -14,16 +13,8 @@ Usage:
 
 For demo, see the code MyVoiceRecognition.cpp under examples folder.
 
-License:
----------
-The MIT License (MIT)
-
 Bug Report:
 ------------
 Send it to: liufuqiang_robot at hotmail dot com
-=======
-ViRobot-Intel-Perceptual-Computing-Voice-Recognition-Response
-=============================================================
 
-ViRobot-Intel Perceptual Computing-Voice Recognition + Response
->>>>>>> 4c5a16a9661d28ba9fd2a436ffe90595ed2017fb
+

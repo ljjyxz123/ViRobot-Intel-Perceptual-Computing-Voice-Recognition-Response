@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /*.sdf
 /*.vsp
 /*.psess
@@ -11,33 +10,3 @@
 /MyVoiceRecognition/*.vcxproj.filters
 /MyVoiceRecognition/commands - ¸±±¾.csv
 
-=======
->>>>>>> 4c5a16a9661d28ba9fd2a436ffe90595ed2017fb
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
