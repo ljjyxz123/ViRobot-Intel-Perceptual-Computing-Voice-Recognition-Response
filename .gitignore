@@ -1,0 +1,40 @@
+/*.sdf
+/*.vsp
+/*.psess
+/ipch
+/Debug
+/Release
+/MyVoiceRecognition/Debug
+/MyVoiceRecognition/*.vcxproj.user
+/MyVoiceRecognition/*.vcxproj
+/MyVoiceRecognition/*.vcxproj.filters
+/MyVoiceRecognition/commands - ¸±±¾.csv
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
